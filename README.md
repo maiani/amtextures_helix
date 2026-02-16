@@ -1,4 +1,4 @@
-# Optical and transport anisotropies in spin-textured altermagnets: Code for the paper
+# _Optical and transport anisotropies in spin-textured altermagnets_: Code for the paper
 
 This repo has two jobs:
 
@@ -45,10 +45,7 @@ Notebooks and exported figures used in the manuscript.
 
 - `paper_plot_style.mplstyle`  
   Matplotlib style file used to keep typography, line widths, tick sizes, etc. consistent.
-
-- `Fig*.pdf/.svg`  
-  Exported figures (PDF for submission, SVG for editing/embedding workflows).
-
+  
 ---
 
 ## Citation
